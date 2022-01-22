@@ -1,21 +1,27 @@
-<h1 align="center">Welcome to MERN-Based Inventory Management System 👋</h1>
+<h1 align="center">Welcome to CrownClothing Online store 👋</h1>
 
 ### Demo
 
 ![Demo](CrownClothingGiif.gif)
+Developed a complete E-commerce Website for
+fashion and lifestyle products.
+• Used React-Routers and firebase to enhance the
+performance and implement user sign-in.
+• Added Redux for higher scalability.
+• Integrated payment gateway using stripe AP
 
-> The project, “MERN-Based Inventory Managment System” is a simple MERN application consisting of a basic UI for users to enter inventory data, Item Code, Name 1, Name 2, Price, Vendor Name, Date. The entered data is then validated and stored in the database. The inventory information stored in database is fetched and diplayed in a table for users to be able to see the inventory and filter the data based on Date and Vendor Name. This project was created as POC for "activeBuildings".
+> The project, “CrownClothing Online store” is a complete E-commerce Website for fashion and lifestyle products.We have Used React-Routers and firebase to enhance the
+performance of the website and implemented user sign-in user firebase api's. Added Redux for higher scalability and Integrated payment gateway using stripe API's in this project
 
 ### 🏠 [Homepage](https://github.com/HoneyPatre/)
 
 ## Prerequisites
-
-- mongoose 5.12.3
-- express 4.17.1
 - react 17.0.2
 - redux 4.0.5
 - npm 6.14.5
-- node 12.16.3
+- html
+- css
+-javascript
 
 ## Install
 
@@ -34,7 +40,6 @@ npm start
 
 👤 **Prateek Agrawal**
 
-* Github: [@HoneyPatre](https://github.com/HoneyPatre)
-* LinkedIn: [@honey-patre](https://linkedin.com/in/honey-patre)
-* Youtube: [@honey-patre](https://www.youtube.com/channel/UCVFMjbTF1qmD3YrABDjc40Q)
-* Email    :  honeypatre019@gmail.com
+* Github: [@PrateekAgrawl](https://github.com/prateek48)
+* LinkedIn: [@prateek-agrawal](https://www.linkedin.com/in/prateekagrawal1999)
+* Email    :  prateekag1999@gmail.com
